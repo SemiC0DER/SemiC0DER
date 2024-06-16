@@ -7,4 +7,4 @@ My skills:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vediac2000)](https://solved.ac/vediac2000)
-[![Solved.ac프로필](https://mazandi.herokuapp.com/api?handle=vediac2000&theme=warm)
+[![Solved.ac잔디](https://mazandi.herokuapp.com/api?handle=vediac2000&theme=warm)
