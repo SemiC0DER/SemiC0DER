@@ -1,4 +1,6 @@
 SemiC0DER's Github!
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vediac2000)](https://solved.ac/vediac2000)
